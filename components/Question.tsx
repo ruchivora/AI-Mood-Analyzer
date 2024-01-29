@@ -27,8 +27,8 @@ const Question = () => {
                className='border border-black/20 px-4 py-2 text-lg rounded-lg w-[400px]'/>
         <button disabled={loading} type='submit' className='bg-neutral-800 text-white px-4 py-2 rounded-lg text-lg ml-3 w-[100px]'>Ask</button>
       </form>
-      {loading && <div>...loading</div>}
-      {response && <div>{response}</div>}
+      {loading && <div className="py-4">...loading</div>}
+      {response && <div className="py-4 w-1/2">{response}</div>}
     </div>
   )
 }
