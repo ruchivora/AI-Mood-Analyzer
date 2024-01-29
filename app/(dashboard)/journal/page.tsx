@@ -16,7 +16,15 @@ const getEntries = async () => {
     orderBy: {
       createdAt: 'desc'
     },
-
+    include: {
+      analysis: {
+        select: {
+          mood: true,
+          summary: true,
+          color: true
+        }
+      }
+    }
 
   })
 
@@ -33,7 +41,7 @@ const JournalPage = async () => {
     <div className="my-8">
       <Question/>
     </div>
-    <div className="grid grid-cols-3 gap-4 p-10">
+    <div className="grid grid-cols-4 gap-5 py-10">
       <NewEntryCard/>
       { entries.map(entry => (
         // eslint-disable-next-line react/jsx-key
