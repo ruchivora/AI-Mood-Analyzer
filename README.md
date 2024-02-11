@@ -13,7 +13,7 @@ This project is my playground for exploration and learning, aimed at gaining ins
 
 **LangChain:** While LangChain boasts numerous advantages, for this project, its ability to dynamically access and process information proved invaluable. I leveraged this capability to seamlessly connect to my database, enabling on-demand retrieval of relevant data.
 
-**GPT API:** GPT API to brings intelligent and context-aware features to the project.
+**GPT API:** GPT API brings intelligent and context-aware features to the project.
 
 
 
