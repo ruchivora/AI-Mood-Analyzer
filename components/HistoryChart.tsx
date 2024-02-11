@@ -1,5 +1,5 @@
 'use client'
-import { ResponsiveContainer, Line, XAxis, Tooltip, LineChart} from 'recharts'
+import { ResponsiveContainer, Line, XAxis, Tooltip, LineChart } from 'recharts'
 
 const CustomTooltip = ({active, payload, label}) => {
   const dateLabel = new Date(label).toLocaleString('en-us', {
