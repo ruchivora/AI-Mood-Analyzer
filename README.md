@@ -1,4 +1,4 @@
-## AI Mood Analyzer
+# AI Mood Analyzer
 
 This project is my playground for exploration and learning, aimed at gaining insights into new technologies.
 
