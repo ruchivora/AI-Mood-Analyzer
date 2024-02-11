@@ -1,4 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## AI Mood Analyzer
+
+This project is my playground for exploration and learning, aimed at gaining insights into new technologies.
+
+### Tech Exploration
+**Next.js:** Unleashing the power of the React framework for seamless and efficient web development.
+
+**PostgreSQL:** Harnessing PostgreSQL for robust, optimized data storage.
+
+**Tailwind CSS:** Designing responsive UIs with Tailwind CSS's utility-first approach.
+
+**Prisma:** Optimizing database access with the simplicity of Prisma.
+
+**LangChain:** While LangChain boasts numerous advantages, for this project, its ability to dynamically access and process information proved invaluable. I leveraged this capability to seamlessly connect to my database, enabling on-demand retrieval of relevant data.
+
+**GPT API:** GPT API to brings intelligent and context-aware features to the project.
+
+
+
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
 
 ## Getting Started
 
