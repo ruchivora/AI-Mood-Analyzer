@@ -4,7 +4,7 @@ A Powerful Tool for Self-Awareness and Emotional Well-being
 
 This AI-powered journaling app empowers you to gain deeper insights into your emotions by analyzing your daily entries. By writing regularly and reflecting on your experiences, you'll cultivate a strong foundation for self-understanding and emotional management.
 
-##Key Features:
+## Key Features:
 
 **Daily Journaling:** Create a consistent journaling habit by writing entries that capture your thoughts, feelings, and experiences throughout the day.
 
