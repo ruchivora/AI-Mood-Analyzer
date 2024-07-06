@@ -1,19 +1,15 @@
 # AI Mood Analyzer
 
-This project is my playground for exploration and learning, aimed at gaining insights into new technologies.
+A Powerful Tool for Self-Awareness and Emotional Well-being
 
-### Tech Exploration
-**Next.js:** Unleashing the power of the React framework for seamless and efficient web development.
+This AI-powered journaling app empowers you to gain deeper insights into your emotions by analyzing your daily entries. By writing regularly and reflecting on your experiences, you'll cultivate a strong foundation for self-understanding and emotional management.
 
-**PostgreSQL:** Harnessing PostgreSQL for robust, optimized data storage.
+Key Features:
 
-**Tailwind CSS:** Designing responsive UIs with Tailwind CSS's utility-first approach.
-
-**Prisma:** Optimizing database access with the simplicity of Prisma.
-
-**LangChain:** While LangChain boasts numerous advantages, for this project, its ability to dynamically access and process information proved invaluable. I leveraged this capability to seamlessly connect to my database, enabling on-demand retrieval of relevant data.
-
-**GPT API:** GPT API brings intelligent and context-aware features to the project.
+Daily Journaling: Create a consistent journaling habit by writing entries that capture your thoughts, feelings, and experiences throughout the day.
+Advanced Search & Analysis: Leverage Langchain and the ChatGPT API to ask insightful questions about your past entries. The app will analyze your entries and provide relevant answers based on their content.
+Sentiment Analysis: Gain valuable insights into your overall mood trends over time. The app generates a sentiment graph that visually represents the emotional shifts reflected in your entries.
+Tech Stack: Built with a modern and efficient stack, including Next.js for a seamless frontend experience, Tailwind CSS for rapid styling, PostgreSQL for robust database management, and a memory vector store for efficient information retrieval.
 
 
 
